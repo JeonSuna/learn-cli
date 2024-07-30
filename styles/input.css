@@ -18,7 +18,7 @@ body{
 }
 
 .p0{
-    background-image:url(./profile4.jpg);
+    background-image:url(../profile4.jpg);
     width: 100%;
     background-size: cover;
     background-position: 50%;
